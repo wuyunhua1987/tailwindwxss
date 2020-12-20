@@ -1,5 +1,7 @@
 # tailwindwxss
+
 tailwindcss for wx miniprogram
+
 tailwindcss版本2.0.2
 
 - 删除媒体查询
